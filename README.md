@@ -60,4 +60,6 @@ The dashboard focuses on several key performance indicators (KPIs) to provide a 
 - Detecting Fraud and Ensuring Compliance: The analysis of loan data can help detect unusual patterns or inconsistencies that might indicate fraudulent activity. It also helps with regulatory compliance by ensuring loan data is collected and reported as mandated by regulations.
 
 # Demo 
+![Bank Loan Report Summary](https://github.com/ShiwamMishra-0599k/Bank-Loan-Report/blob/main/Bank%20Loan%20Report%20Summary.png)
+
 
