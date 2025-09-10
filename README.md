@@ -8,6 +8,8 @@ The dashboard was built using the following key tools and technologies:
 
 - SQL (Structured Query Language): Leveraged for building and managing the relational database that served as the project's data source.
 
+- Jupyter Notebook: To improve business KPIs, I cleaned, prepared, and analyzed data using various SQL queries in a Jupyter Notebook, performing KPI analysis, MTD/MoM calculations, and detailed breakdown analyses.
+
 - Microsoft Power BI Desktop: The primary business intelligence platform used for the entire dashboard creation process.
 
 - Power Query: Utilised for data cleaning, transformation, and preparation to ensure the dataset was ready for analysis and visualisation.
@@ -22,8 +24,7 @@ The dashboard was built using the following key tools and technologies:
 
 # Data Source
 Source:
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3BnaXRvNzlqTjV3V3NwbkFkUFppQWU0OXJJQXxBQ3Jtc0ttOVA0WjlWV1hha0FSUzF3Y3QwRUlBTmZCMk5wQl9ERXczQi1lZmM0S2tWbVVMOERRZDJXZzhUTDloQk5QLXpVcGFlSVRrUGI3SzJWc2JjbVJkeUV0djVkazRXU1JOQTIzcmhGN3dCQ2h2SFdfT1prOA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1nVYJrAVvUegJjX9vChxWCW61TzBQ49td%3Fusp%3Dsharing&v=EBU9wyt-xgo
-
+ https://drive.google.com/drive/folders/1nVYJrAVvUegJjX9vChxWCW61TzBQ49td?usp=sharing
 
 
 # Business Problems
